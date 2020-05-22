@@ -1,0 +1,14 @@
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\bin\Release\CashMag - Installer.exe.config
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\bin\Release\CashMag - Installer.exe
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\bin\Release\CashMag - Installer.pdb
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\bin\Release\MySql.Data.dll
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\bin\Release\MySqlBackup.dll
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag___Installer.Form1.resources
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag___Installer.Properties.Resources.resources
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag - Installer.csproj.GenerateResource.cache
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag - Installer.csproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag - Installer.csproj.CopyComplete
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag - Installer.exe
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag - Installer.pdb
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag - Installer.csprojAssemblyReference.cache
+C:\Users\Crash\source\repos\CashMag - Installer\CashMag - Installer\obj\Release\CashMag___Installer.About.resources

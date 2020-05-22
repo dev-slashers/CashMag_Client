@@ -1,0 +1,17 @@
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\bin\Debug\CashMag_Client.exe.config
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\bin\Debug\CashMag_Client.exe
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\bin\Debug\CashMag_Client.pdb
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.Form1.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.Loading.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.Properties.Resources.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.csproj.GenerateResource.cache
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.csproj.CoreCompileInputs.cache
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.exe
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.pdb
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.SendOrder.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.csproj.CopyComplete
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.CheckOrder.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.MessageForm.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.Uscita.resources
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\obj\Debug\CashMag_Client.csprojAssemblyReference.cache
+C:\Users\Crash\source\repos\CashMag_Client\CashMag_Client\bin\Debug\MySql.Data.dll

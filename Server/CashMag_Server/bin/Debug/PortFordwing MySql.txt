@@ -1,0 +1,23 @@
+Edit:
+C:\ProgramData\MySQL\MySQL Server 5.7\my.ini
+
+Aggiungere:
+
+#0.0.0.0 = tutti gli IP
+bind-address 	= 0.0.0.0 
+
+Aprire la porta UDP e TDP da Windows Firewall: 
+
+Pannello di controllo > Windows firewall > Impostazioni Avanzate:
+
+Regola impostazioni in entrate
+
+Regola impostazioni in entrate
+
+Menu in alto a destra > Nuova regola.
+porta 3300
+
+Da console MySql, lanciare:
+
+GRANT ALL privileges ON  *.* TO 'root'@'<host>' IDENTIFIED BY '<Password>';
+FLUSH PRIVILEGES;
